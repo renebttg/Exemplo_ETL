@@ -1,4 +1,4 @@
-# EXEMPLO_ETL: Extração, Transformação e Carregamento em Python
+# Exemplo_ETL: Extração, Transformação e Carregamento em Python
 Este repositório apresenta um conjunto de scripts Python para realizar o processo ETL (Extração, Transformação e Carregamento) em dados e armazená-los em um banco de dados SQLite.
 
 # Extração, Transformação e Armazenamento de Dados:
