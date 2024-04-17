@@ -8,19 +8,24 @@ Os primeiros scripts se encarregam de extrair dados de arquivos CSV e Excel, apl
 O último script demonstra como recuperar os dados das tabelas SQL dentro do banco de dados SQLite utilizando consultas SQL simples. Ele executa consultas para obter os dados das tabelas vendas_filia1_transformadas e vendas_filia2_transformadas, exibindo esses dados linha por linha.
 
 # Extração dos Dados
-![image](https://github.com/renebttg/Exemplo_ETL/assets/114888521/8872293d-5fb4-42af-90ef-45bf9e15d2c4)
+![Extração de Dados](https://github.com/renebttg/Exemplo_ETL/assets/114888521/92dec9de-c044-4c36-9e49-980fc6f653c6)
+
 
 # Transformação dos Dados
-![image](https://github.com/renebttg/Exemplo_ETL/assets/114888521/38817b18-b8ce-4628-90b1-14c0ad049d2d)
+![Transformação de Dados](https://github.com/renebttg/Exemplo_ETL/assets/114888521/4ccc1743-0064-4c68-ba0a-c5c618a79593)
+
 
 # Carregamento dos Dados em CSV
-![image](https://github.com/renebttg/Exemplo_ETL/assets/114888521/7f6789ae-058b-4e37-b962-a9470c80c1d2)
+![Carregamento dos Dados em CSV](https://github.com/renebttg/Exemplo_ETL/assets/114888521/840aa01d-69d2-4949-921a-c1309db95a1a)
+
 
 # Carregamento dos Dados no SQlite
-![image](https://github.com/renebttg/Exemplo_ETL/assets/114888521/511ebf3d-8e7e-401b-b1f1-056c0e9c6893)
+![Carregamento dos Dados no SQlite](https://github.com/renebttg/Exemplo_ETL/assets/114888521/53b6a823-a822-451d-9d71-6f86088e1187)
+
 
 # Consulta dos Dados no SQlite
-![image](https://github.com/renebttg/Exemplo_ETL/assets/114888521/ed00c425-d9b3-43b0-bbfd-a90a26b65d9a)
+![Consulta dos Dados no SQlite](https://github.com/renebttg/Exemplo_ETL/assets/114888521/c7602ef6-8ed9-44f3-8d4a-104241258e18)
+
 
 
 
